@@ -1,0 +1,15 @@
+C:\Users\Korpen\source\repos\Fortuna\Fortuna\bin\Debug\net6.0\Fortuna.exe
+C:\Users\Korpen\source\repos\Fortuna\Fortuna\bin\Debug\net6.0\Fortuna.deps.json
+C:\Users\Korpen\source\repos\Fortuna\Fortuna\bin\Debug\net6.0\Fortuna.runtimeconfig.json
+C:\Users\Korpen\source\repos\Fortuna\Fortuna\bin\Debug\net6.0\Fortuna.dll
+C:\Users\Korpen\source\repos\Fortuna\Fortuna\bin\Debug\net6.0\Fortuna.pdb
+C:\Users\Korpen\source\repos\Fortuna\Fortuna\obj\Debug\net6.0\Fortuna.csproj.AssemblyReference.cache
+C:\Users\Korpen\source\repos\Fortuna\Fortuna\obj\Debug\net6.0\Fortuna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korpen\source\repos\Fortuna\Fortuna\obj\Debug\net6.0\Fortuna.AssemblyInfoInputs.cache
+C:\Users\Korpen\source\repos\Fortuna\Fortuna\obj\Debug\net6.0\Fortuna.AssemblyInfo.cs
+C:\Users\Korpen\source\repos\Fortuna\Fortuna\obj\Debug\net6.0\Fortuna.csproj.CoreCompileInputs.cache
+C:\Users\Korpen\source\repos\Fortuna\Fortuna\obj\Debug\net6.0\Fortuna.dll
+C:\Users\Korpen\source\repos\Fortuna\Fortuna\obj\Debug\net6.0\refint\Fortuna.dll
+C:\Users\Korpen\source\repos\Fortuna\Fortuna\obj\Debug\net6.0\Fortuna.pdb
+C:\Users\Korpen\source\repos\Fortuna\Fortuna\obj\Debug\net6.0\Fortuna.genruntimeconfig.cache
+C:\Users\Korpen\source\repos\Fortuna\Fortuna\obj\Debug\net6.0\ref\Fortuna.dll
